@@ -13,4 +13,11 @@
     <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
 
+  
+  <ItemGroup>
+    <Folders Include="Data\" />
+    <Folders Include="Endpoints\" />
+    <Folders Include="Extensions\" />
+  </ItemGroup>
+
 </Project>
